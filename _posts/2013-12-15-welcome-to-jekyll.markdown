@@ -5,6 +5,8 @@ date:   2013-12-15 17:55:05
 categories: jekyll update
 ---
 
+this is me editing my first Jekyll post. At teh time of writing I'm having lots of trouble with it. Lets hope its worth it in the end!
+
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
