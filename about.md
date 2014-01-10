@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
+title: About Padraic7a
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
@@ -10,24 +10,16 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
 
-## So Simple Theme is all about:
+## So what is this blog all about?
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+Mostly its a space for me to keep track of different things I do to my laptop and it's software. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+The blog is hosted on Reclaim Hosting [Reclaim]. They offer cheap domain name registration and hosting to educational projects and take a very liberal view of what that covers. They're also really helpful when you run into problems which is great.
 
-[^1]: Example: *domain.com/category-name/post-title*
+At the moment I'm running Fedora 20 and while I enjoy it I also break things on a regular enough basis. I search forums and stackexchange to fix it and usually solve the problem by mixing a couple of different solutions. 
+
+Then some time later I'll break it again and have to figure out how I solved it, read through solutions, half remember that they didn't quite work the last time and try to figure out why ... I'll learn something and then a certain time later I'll break something else and the whole process starts again.
+
+[Reclaim]:http://www.reclaimhosting.com "Reclaim Hosting"
+

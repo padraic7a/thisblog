@@ -3,24 +3,20 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2013-12-15 17:55:05
 categories: jekyll update
+comments: true
 ---
 
-this is me editing my first Jekyll post. At teh time of writing I'm having lots of trouble with it. Lets hope its worth it in the end!
+This is me editing my first Jekyll post. At the time of writing I'm having lots of trouble with it.
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+I'm blogging with Jekyll for a couple of reasons.
 
-Jekyll also offers powerful support for code snippets:
+* I like the idea of a static html site vulnerable to less attacks
+* I also like the idea of using markdown and it seemd like once you get the hang of it, it should make writing fairly quick
+* Finally using Jekyll is an opportunity to use git. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+On the last point:  
+I'm hoping to learn a bit of basic programming this year and I know myself enough to know that I need to be learning something implementable. While git isn't programming it is a way to check code out, and maybe alter it, and send the alteration on to someone else. Learning how to commit blog changes isn't the worst start.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+So far so not so great on that front though. I tried setting up a `post-receive hook` for deployment ad that didn't work out. I'll try again when I get the hang of jekyll itself.     
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+
