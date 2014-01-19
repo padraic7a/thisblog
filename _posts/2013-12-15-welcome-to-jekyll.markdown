@@ -17,6 +17,6 @@ I'm blogging with Jekyll for a couple of reasons.
 On the last point:  
 I'm hoping to learn a bit of basic programming this year and I know myself enough to know that I need to be learning something implementable. While git isn't programming it is a way to check code out, and maybe alter it, and send the alteration on to someone else. Learning how to commit blog changes isn't the worst start.
 
-So far so not so great on that front though. I tried setting up a `post-receive hook` for deployment ad that didn't work out. I'll try again when I get the hang of jekyll itself.     
+So far so not so great on that front though. I tried setting up a `post-receive hook` for deployment and that didn't work out. I'll try again when I get the hang of jekyll itself.     
 
 

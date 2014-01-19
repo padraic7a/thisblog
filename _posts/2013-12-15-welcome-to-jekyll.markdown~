@@ -9,6 +9,7 @@ comments: true
 This is me editing my first Jekyll post. At the time of writing I'm having lots of trouble with it.
 
 I'm blogging with Jekyll for a couple of reasons.
+
 * I like the idea of a static html site vulnerable to less attacks
 * I also like the idea of using markdown and it seemd like once you get the hang of it, it should make writing fairly quick
 * Finally using Jekyll is an opportunity to use git. 
