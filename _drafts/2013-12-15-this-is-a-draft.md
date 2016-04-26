@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+description: "A ton of text to test readability."
 date:   2013-12-15 17:55:05
-categories: jekyll update
+category: articles
+tags: [sample post, readability, test, intro]
+image:
+  feature: so-simple-sample-image-2.jpg
+  credit: Michael Rose
+  creditlink: http://mademistakes.com
 comments: true
+share: true
 ---
 
 This is a headline

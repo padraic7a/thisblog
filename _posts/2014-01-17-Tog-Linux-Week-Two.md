@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "TOGLinux Class Two"
+description: "My second week on the Linux 1 course in TOG hackerspace, and what I learned."
 date:   2014-01-17 
-categories: Linux CLI
+category: articles
+tags: [cli, bash, Linux, TOG, course]
 ---
 
 TOG Linux Week Two
@@ -18,7 +20,7 @@ TOG Linux Week Two
 * cp file01 file02  
     cp -f     force copy, file 2 is overwritten  
     cp -r dir01 dir02 copy directory  
-    cp -rf    copy and overwrite directory wihout asking
+    cp -rf    copy and overwrite directory without asking
 * mv file1 file2
 * mv dir1 dir2
 * mkdir 
@@ -128,14 +130,13 @@ Everything in linux is a file
 
 /dev/sda is first disk
 
-To find out which mount points are available for mounting look in /dev/disk foldery
+To find out which mount points are available for mounting look in /dev/disk folder
 
 To see what is currently mounted  
 __df__
  
 
 how much space does a directory use?
+_du -sh \<directory\>_
  
-__du -sh \<directory\>__
- 
- 
+

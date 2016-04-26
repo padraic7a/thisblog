@@ -1,32 +1,22 @@
 ---
 layout: post
-title:  "Recording and replaying terminal commands"
-date:   2014-02-28 21:31:05
-categories: cli
+title:  "Welcome to Jekyll!"
+description: "A ton of text to test readability."
+date:   2013-12-15 17:55:05
+category: articles
+tags: [sample post, readability, test, intro]
+image:
+  feature: so-simple-sample-image-2.jpg
+  credit: Michael Rose
+  creditlink: http://mademistakes.com
 comments: true
+share: true
 ---
 
-Going back over 
+This is a headline
 ==================
 
-Part of the reason for this blog is to help me document and keep track of things I learn. As part of the effort to do that I've messed around with different options for .bash_history.
-
-I've increased to amount of commands stored by default, made sure multiple running sessions are recorded and so on.
-
-Looking through your previous commands isn't always very useful though, especially when you make mistakes, run commands in the wrong order or just repeat commands to see if things change.
-
-If you can't see whether or not the command was successfull
-
-
-asciinema
-
-scipt.scrren
-
-edit - user@mycomputer
-
-can you edit asciicinema
-
-I've been looking at how I keep track of new things I learn recently. having one line of text
+having one line of text
 
 then a gap, then another line of text gives the paragraph structure
 

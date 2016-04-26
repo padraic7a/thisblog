@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2013-12-15 17:55:05
-categories: jekyll update
+category: articles
+tags: [blog, Jekyll]
 comments: true
 ---
 
@@ -11,7 +12,7 @@ This is me editing my first Jekyll post. At the time of writing I'm having lots 
 I'm blogging with Jekyll for a couple of reasons.
 
 * I like the idea of a static html site vulnerable to less attacks
-* I also like the idea of using markdown and it seemd like once you get the hang of it, it should make writing fairly quick
+* I also like the idea of using markdown and it seems like once you get the hang of it, it should make writing fairly quick
 * Finally using Jekyll is an opportunity to use git. 
 
 On the last point:  

@@ -2,7 +2,9 @@
 layout: post
 title:  "Starting Linux 1 in TOG Hackerspace"
 date:   2014-01-07 
-categories: linux cli
+category: articles
+description: "My first class on the Linux 1 course in the TOG hackerspace."
+tags: [cli, Linux, TOG, course]
 ---
 
 One of my New Year resolutions is to try and learn some programming this year. I have my eye on python but also want to get some bash scripting under my belt.
@@ -36,7 +38,7 @@ Using the terminal with the '&' 'forks' new the process as a 'child' process. Ja
 Debian install
 ==============
 
-We also carried out a terminal based 'expert mode' installation of Debian, based on having a 20gig hard drive and 512MB ram.
+We also carried out a terminal based 'expert mode' installation of Debian, based on having a 20 gig hard drive and 512MB ram.
 
 The configuration chosen was 
 
